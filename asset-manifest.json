@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neural/static/css/main.f0b3b546.css",
+    "main.js": "/neural/static/js/main.d0d3e019.js",
+    "index.html": "/neural/index.html",
+    "main.f0b3b546.css.map": "/neural/static/css/main.f0b3b546.css.map",
+    "main.d0d3e019.js.map": "/neural/static/js/main.d0d3e019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b3b546.css",
+    "static/js/main.d0d3e019.js"
+  ]
+}
