@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-[link sito](https://FrancescoSardo.github.io/neural/)
+[link sito](https://francescosardo.github.io/Perceptron/)
 
 In the project directory, you can run:
 
